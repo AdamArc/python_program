@@ -10,4 +10,4 @@ for i in range(jumlah_password):
     # password = password + random.choice(keyword)
     password += random.choice(keyword)
 
-print(password+"adam")
+print(password+"adam aja")
